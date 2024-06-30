@@ -6,7 +6,7 @@ Stay engaged and practice consistently to make the most of this learning experie
 1. We'll start with the [ML Libaries / Python Modules](./Python%20Modules) to facilitate efficient data manipulation and visualization.
 2. Our first ML concept will be [Linear Regression](./Linear%20Regression), a powerful technique for modeling relationships between variables.
 3. Next, we'll explore [Logistic Regression](./Logistic%20Regression), a fundamental method for binary classification tasks.
-4. Now we'll cover [Classifiers](./Classifiers(Optional)), which are algorithms used to classify data into different categories based on patterns in the input features.  
+4. Now we'll cover [Classifiers](./Classifiers (OPTIONAL)), which are algorithms used to classify data into different categories based on patterns in the input features.  
 *This section is optional for week 1 but is **compulsory** in week 2. After completing the above 3 sections, if time persists then one can refer to the **classifiers** section.*
 5. It's time to put our knowledge to the test. Let's tackle the [Assignments](./Assignment) and practice our skills to reinforce our understanding.
 
