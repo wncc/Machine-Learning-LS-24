@@ -1,6 +1,8 @@
 # Machine-Learning-LS-24
 
-### Web and Coding Club welcomes you to Machine Learning Course where we aim to deepn dive into the world of Deep Learning in Computer Vision. Follow weekly folders created. Let's gert started with [Week 1](). Week2 coming soon...
+### Web and Coding Club welcomes you to Machine Learning Course where we aim to deepn dive into the world of Deep Learning in Computer Vision. Follow weekly folders created. Let's gert started with [Week 1](https://github.com/wncc/Machine-Learning-LS-24/tree/main/Week%201). Week2 coming soon...
+
+For detailed information about the course, check out- 
 
 ## For any further querries, feel free to reach out our course Moderators-
 
