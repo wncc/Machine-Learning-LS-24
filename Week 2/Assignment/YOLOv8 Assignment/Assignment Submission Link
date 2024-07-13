@@ -1,1 +1,2 @@
 https://drive.google.com/drive/folders/1bJyDRDZ_XWitt3z7hzH2SQnkwLXU7A6G?usp=drive_link
+This drive contains the yolo_submission.ipynb the colab file , the confusion matrix is in the runs/detect/val/ and the predicted outputs in the runs/detect/predict/ .
