@@ -20,7 +20,8 @@ In the context of computer vision and deep learning, an image represented as a N
 
 [BGR2GRAY](https://youtu.be/AFrZ3JOQ0Qg?si=wcdHgOTnidg7bHYV)  
 [BGR Channels](https://youtu.be/wlH9w1eA6PQ?si=AFraoDNEW-3YYJB1)  
-[BGR vs RGB](https://youtu.be/kSqxn6zGE0c?si=_ZK8MVWV5SLiJWi1&t=581) (9:41 to 11:50)
+[BGR vs RGB](https://youtu.be/kSqxn6zGE0c?si=_ZK8MVWV5SLiJWi1&t=581) (9:41 to 11:50)  
+[HSV](https://youtu.be/eDIj5LuIL4A?si=ex0w92Y_b4CC8nbq&t=7771) (2:09:31 to 2:29:00)
 
 ## Playing with Images
 
