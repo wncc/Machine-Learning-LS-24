@@ -4,7 +4,7 @@ In this week we will apply whatever we learned till now and complete the final p
 
 ### Instruction
 There are two projects provided. 
-1) FACIAL RECOGNITION USING SIAMESE NETWORKS
+1) [FACIAL RECOGNITION USING SIAMESE NETWORKS](https://github.com/wncc/Machine-Learning-LS-24/blob/main/WEEK%204/PROJECT1.md)
 2) MULTI CLASS IMAGE CLASSIFICATON ON MEDICAL DATASET
 
 One can do either of the two.
